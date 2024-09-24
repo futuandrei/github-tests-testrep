@@ -12,3 +12,5 @@ Steps
 - - git commit -m "message"
 - - git push origin main
 - Remote update successful (No conflict)
+
+- Some text to generate conflict.
