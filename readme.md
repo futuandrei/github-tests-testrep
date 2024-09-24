@@ -7,3 +7,4 @@ Steps
 - - Git pull origin main
 - Made changes to local repository: Edited readme.md file.
 - Pushed it to remote.
+- Some changes.
